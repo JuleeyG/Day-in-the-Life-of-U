@@ -11,6 +11,7 @@ UI Designer and helped create the idea for our product
 [Link](https://www.cecs.ucf.edu/flit-path/entrepreneurship-pathway/) to our page on the Founder's Academy website
 
 ## Presentation 
+[Presentation Slides](https://docs.google.com/presentation/d/1jjXVPlqPXh98m4ajTFm-Ckfk__YfPct0o2c1hvj2Ug8/edit?usp=sharing)
 
 ## Live Demo and Snapshots
 I designed our product's UI in Figma. 
@@ -22,6 +23,3 @@ Check out our [live demo](https://www.figma.com/proto/4RfeppMmC3USBXzRMObmfl/Day
 ![dilu1](https://user-images.githubusercontent.com/36057651/175828198-6bd209ea-0d42-48c7-ba75-ba284f21229c.PNG)![dilu2](https://user-images.githubusercontent.com/36057651/175828206-cea315d4-c28f-4974-bff3-39070add3516.PNG)![dilu3](https://user-images.githubusercontent.com/36057651/175828216-87fa6628-3aab-4987-a82e-728ab693743a.PNG)![dilu4](https://user-images.githubusercontent.com/36057651/175828221-5f0b1f8e-4921-4e83-a777-8508b60fa3c1.PNG)![dilu6](https://user-images.githubusercontent.com/36057651/175828235-2307582e-d509-4e67-86ce-a628b0974620.PNG)![dilu5](https://user-images.githubusercontent.com/36057651/175828230-c03f8a39-5462-4049-8c05-2ad623da3828.PNG)
 
 ## Business Model Canvas
-
-## Presentations
-[Presentation Slides](https://docs.google.com/presentation/d/1jjXVPlqPXh98m4ajTFm-Ckfk__YfPct0o2c1hvj2Ug8/edit?usp=sharing)
