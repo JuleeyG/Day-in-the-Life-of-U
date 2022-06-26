@@ -10,6 +10,8 @@ UI Designer and helped create the idea for our product
 ## About the Founder's Academy Entrepreneurship
 [Link](https://www.cecs.ucf.edu/flit-path/entrepreneurship-pathway/) to our page on the Founder's Academy website
 
+## Presentation 
+
 ## Live Demo and Snapshots
 I designed our product's UI in Figma. 
 Check out our [live demo](https://www.figma.com/proto/4RfeppMmC3USBXzRMObmfl/Day-In-The-Life-Of-U?node-id=10%3A7&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A2) in Figma.
@@ -22,3 +24,4 @@ Check out our [live demo](https://www.figma.com/proto/4RfeppMmC3USBXzRMObmfl/Day
 ## Business Model Canvas
 
 ## Presentations
+[Presentation Slides](https://docs.google.com/presentation/d/1jjXVPlqPXh98m4ajTFm-Ckfk__YfPct0o2c1hvj2Ug8/edit?usp=sharing)
