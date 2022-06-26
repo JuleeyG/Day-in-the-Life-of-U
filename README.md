@@ -19,3 +19,5 @@ Check out our [live demo](https://www.figma.com/proto/4RfeppMmC3USBXzRMObmfl/Day
 ![dilu1](https://user-images.githubusercontent.com/36057651/175828198-6bd209ea-0d42-48c7-ba75-ba284f21229c.PNG)![dilu2](https://user-images.githubusercontent.com/36057651/175828206-cea315d4-c28f-4974-bff3-39070add3516.PNG)![dilu3](https://user-images.githubusercontent.com/36057651/175828216-87fa6628-3aab-4987-a82e-728ab693743a.PNG)![dilu4](https://user-images.githubusercontent.com/36057651/175828221-5f0b1f8e-4921-4e83-a777-8508b60fa3c1.PNG)![dilu6](https://user-images.githubusercontent.com/36057651/175828235-2307582e-d509-4e67-86ce-a628b0974620.PNG)![dilu5](https://user-images.githubusercontent.com/36057651/175828230-c03f8a39-5462-4049-8c05-2ad623da3828.PNG)
 
 ## Business Model Canvas
+
+## Presentations
