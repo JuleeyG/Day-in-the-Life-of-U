@@ -2,12 +2,13 @@
 Day in the Life of U is the name for our product pitched in our Founder's Academy class, which is an entrepeneurship focused on teaching us how to create successful business models and inventions. 
 
 # Overview and Purpose
-Day in the Life of U is an educational social media app idea. It's purpose is to allow college students to share insight to high schoolers on their program of interest at their college. For example, high schoolers interested in majoring in Computer Science at UCF could view blogs created by current Computer Science majors at UCF. They can interact and ask them for advice as well. Essentially, it would be like YouTube geered towards academics. It is not a fully-functional app but a prototype. The product was simply created to expand our knowledge of what it is like to plan for running a successful business. Ultimately, we received an A for in that class for our product. 
+Day in the Life of U is an educational social media app concept. Its purpose is to allow college students to share insight to high schoolers on their program of interest at their college. For example, high schoolers interested in majoring in Computer Science at UCF could view blogs created by current Computer Science majors at UCF. They can interact and ask them for advice as well. Essentially, it would be like YouTube geered towards academics. It is not a fully-functional app but a prototype. The product was simply created to expand our knowledge of what it is like to plan for running a successful business. Ultimately, we received an A for in that class for our product. 
 
 ## My Role
 UI Designer and helped create the idea for our product
 
 ## About the Founder's Academy Entrepreneurship
+A course that teaches students how to market a product or concept.
 [Link](https://www.cecs.ucf.edu/flit-path/entrepreneurship-pathway/) to our page on the Founder's Academy website
 
 ## Presentation 
